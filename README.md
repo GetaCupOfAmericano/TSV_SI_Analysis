@@ -98,7 +98,4 @@ The ultimate visual representation of signal quality at the receiver:
 *   **Eye Width:** Horizontal opening of the eye, indicating the time margin for reliable data sampling (timing margin/jitter tolerance).
 *   A **wide and tall eye** signifies good signal integrity and low bit error rate. A **closed eye** indicates severe signal degradation and unreliable communication.
 
-## Contact
-
-For questions or feedback, please contact [Your Name/Email Address - Optional].
 
