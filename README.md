@@ -43,7 +43,6 @@ This project conducted in ASTRI (Hong Kong Applied Science and Techonology Resea
     ```bash
     python your_main_script_name.py
     ```
-    *(Replace `your_main_script_name.py` with the actual name of your main Python file that launches the GUI)*
 
 2.  **Interactive GUI:**
     *   A graphical user interface (GUI) will appear.
