@@ -31,7 +31,6 @@ This project conducted in ASTRI (Hong Kong Applied Science and Techonology Resea
     git clone https://github.com/your-username/your-repo-name.git
     cd your-repo-name
     ```
-    *(Replace `your-username` and `your-repo-name` with your actual GitHub details if applicable)*
 
 2.  **Install the dependencies:**
     ```bash
