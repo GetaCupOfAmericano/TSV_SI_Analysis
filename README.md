@@ -28,7 +28,7 @@ This project conducted in ASTRI (Hong Kong Applied Science and Techonology Resea
 
 1.  **Clone this repository** (or download the script files):
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/GetCupOfAmericano/TSV_SI_Analysis.git
     cd your-repo-name
     ```
 
@@ -41,7 +41,7 @@ This project conducted in ASTRI (Hong Kong Applied Science and Techonology Resea
 
 1.  **Run the main script:**
     ```bash
-    python your_main_script_name.py
+    python TSV_SI_Touchbench.py
     ```
 
 2.  **Interactive GUI:**
